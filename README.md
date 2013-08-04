@@ -1,6 +1,6 @@
 ParanoidAndroid
 =========================
 
--Branches
+4.2.2: jellybean
 
-For Nexus devices use "jellybean". For Other devices use "jellybean-legacy".
+4.3: jb43
